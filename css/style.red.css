@@ -764,7 +764,7 @@ ABOUT
   opacity: 0;
   -webkit-transition: all 0.3s;
   transition: all 0.3s;
-  color: #555;
+  color: #ef5285;
 }
 
 .box-masonry .box-masonry-hover-text-header p {
@@ -772,7 +772,7 @@ ABOUT
 }
 
 .box-masonry .box-masonry-hover-text-header h4 a {
-  color: #555;
+  color: #ef5285;
 }
 
 .box-masonry .box-masonry-hover-center {

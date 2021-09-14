@@ -8,13 +8,6 @@
   height: 400px;
   cursor: pointer;
 }
-.imgSty2 {
-  width: 100%;
-  height: 300px;
-  cursor: pointer;
-}
-.imgSty3 {
-  width: 100%;
-  height: 300px;
-  cursor: pointer;
+.borderPink:hover {
+  border: 2px solid #ef5285;
 }
